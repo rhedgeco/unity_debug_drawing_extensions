@@ -1,1 +1,13 @@
 ﻿.idea
+
+*.csproj
+*.sln
+/Temp/
+/UserSettings/
+/ProjectSettings/
+/Packages/
+/obj/
+/Logs/
+/Library/
+
+*.meta
